@@ -1,6 +1,7 @@
 {
   "name": "nuxt",
   "version": "1.0.0",
+  "description": "My test Nuxt",
   "private": true,
   "scripts": {
     "dev": "nuxt",
@@ -9,8 +10,18 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "@nuxtjs/axios": "^5.12.3",
+    "bootstrap-vue": "^2.20.1",
+     "bootstrap": "^4.5.3",
     "core-js": "^3.6.5",
-    "nuxt": "^2.14.6"
+    "nuxt": "^2.14.6",
+    "vue-material": "^1.0.0-beta-15"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@nuxt/types": "^2.14.8",
+    "fibers": "^5.0.0",
+    "nodemon": "^2.0.6",
+    "sass": "^1.29.0",
+    "sass-loader": "^10.1.0"
+  }
 }
