@@ -1,7 +1,7 @@
 <template>
    <div class="container">
       <h1>
-         Home page
+         Home page)
       </h1>
       <p>
          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aspernatur debitis dolores eius eligendi
